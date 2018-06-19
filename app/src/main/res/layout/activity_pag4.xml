@@ -1,0 +1,31 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.jwt.cacaaosovos.Pag4"
+    android:background="@drawable/i005">
+
+    <ImageButton
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:minHeight="200dp"
+        android:minWidth="175dp"
+        android:id="@+id/pag4a"
+
+        android:layout_marginLeft="0dp"
+        android:layout_marginTop="300dp"
+        android:onClick="esconder"
+        android:alpha="0" />
+
+    <ImageButton
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:minHeight="250dp"
+        android:minWidth="175dp"
+        android:id="@+id/pag4b"
+
+        android:layout_marginLeft="185dp"
+        android:layout_marginTop="300dp"
+        android:onClick="achar"
+        android:alpha="0" />
+
+</RelativeLayout>

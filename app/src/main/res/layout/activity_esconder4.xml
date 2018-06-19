@@ -1,0 +1,22 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.jwt.cacaaosovos.Esconder4"
+    android:background="@drawable/i010"
+    android:onClick="esconder5">
+
+
+    <ImageButton
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:src="@drawable/i010"
+        android:scaleType="fitXY"
+        android:layout_margin="-16dp"
+        android:layout_marginLeft="-40dp"
+        android:layout_marginTop="-16dp"
+        android:layout_marginRight="-40dp"
+        android:layout_marginBottom="-16dp"
+        android:onClick="esconder5"
+        />
+
+</RelativeLayout>

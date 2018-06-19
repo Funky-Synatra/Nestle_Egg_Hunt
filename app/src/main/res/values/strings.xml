@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Caça aos Ovos</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_pag2">Pag2</string>
+    <string name="title_activity_pag3">Pag3</string>
+    <string name="title_activity_pag4">Pag4</string>
+    <string name="loading">loading</string>
+    <string name="title_activity_esconder1">Esconder1</string>
+    <string name="title_activity_achar1">Achar1</string>
+    <string name="title_activity_esconder2">Esconder2</string>
+    <string name="title_activity_esconder3">Esconder3</string>
+    <string name="title_activity_esconder4">Esconder4</string>
+    <string name="title_activity_esconder5">Esconder5</string>
+    <string name="title_activity_esconder6">Esconder6</string>
+    <string name="title_activity_esconder7">Esconder7</string>
+    <string name="title_activity_esconder8">Esconder8</string>
+
+
+</resources>

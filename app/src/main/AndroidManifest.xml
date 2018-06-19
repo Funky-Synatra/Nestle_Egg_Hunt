@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.jwt.cacaaosovos" >
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/ic_launcher"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name=".MainActivity"
+            android:label="@string/app_name"
+            android:noHistory="true"
+
+            >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".Pag2"
+            android:label="@string/title_activity_pag2"
+            >
+        </activity>
+        <activity
+            android:name=".Pag3"
+            android:label="@string/title_activity_pag3"
+            >
+        </activity>
+        <activity
+            android:name=".Pag4"
+            android:label="@string/title_activity_pag4"
+            >
+        </activity>
+        <activity
+            android:name=".Esconder1"
+            android:label="@string/title_activity_esconder1"
+            >
+        </activity>
+        <activity
+            android:name=".Esconder2"
+            android:label="@string/title_activity_esconder2"
+            >
+        </activity>
+        <activity
+            android:name=".Esconder3"
+            android:label="@string/title_activity_esconder3" >
+        </activity>
+        <activity
+            android:name=".Esconder4"
+            android:label="@string/title_activity_esconder4" >
+        </activity>
+        <activity
+            android:name=".Esconder5"
+            android:label="Esconder5" >
+        </activity>
+        <activity
+            android:name=".Esconder6"
+            android:label="Esconder6" >
+        </activity>
+        <activity
+            android:name=".Esconder7"
+            android:label="Esconder7" >
+        </activity>
+        <activity
+            android:name=".Esconder8"
+            android:label="Esconder8" >
+        </activity>
+        <activity
+            android:name=".Esconder9"
+            android:label="Esconder9" >
+        </activity>
+        <activity
+            android:name=".Esconder10"
+            android:label="Esconder10" >
+        </activity>
+        <activity
+            android:name=".Esconder11"
+            android:label="Esconder11" >
+        </activity>
+        <activity
+            android:name=".Esconder12"
+            android:label="Esconder12" >
+        </activity>
+        <activity
+            android:name=".Esconder13"
+            android:label="Esconder13" >
+        </activity>
+        <activity
+            android:name=".Esconder14"
+            android:label="Esconder14" >
+        </activity>
+        <activity
+            android:name=".Esconder15"
+            android:label="Esconder15" >
+        </activity>
+        <activity
+            android:name=".Esconder16"
+            android:label="Esconder16" >
+        </activity>
+        <activity
+            android:name=".Esconder17"
+            android:label="Esconder13" >
+        </activity>
+        <activity
+            android:name=".Esconder18"
+            android:label="Esconder13" >
+        </activity>
+        <activity
+            android:name=".Esconder19"
+            android:label="Esconder13" >
+        </activity>
+        <activity
+            android:name=".Esconder20"
+            android:label="Esconder13" >
+        </activity>
+        <activity
+            android:name=".Esconder21"
+            android:label="Esconder13" >
+        </activity>
+        <activity
+            android:name=".Esconder22"
+            android:label="Esconder13" >
+        </activity>
+        <activity
+            android:name=".Achar1"
+            android:label="Achar1"
+            >
+        </activity>
+        <activity
+            android:name=".Achar2"
+            android:label="Achar2"
+
+            >
+        </activity>
+        <activity
+            android:name=".Achar3"
+            android:label="Achar3"
+            >
+        </activity>
+        <activity
+            android:name=".Achar4"
+            android:label="Achar4"
+            >
+        </activity>
+        <activity
+            android:name=".Achar5"
+            android:label="Achar5"
+            >
+        </activity>
+        <activity
+            android:name=".Achar6"
+            android:label="Achar6" >
+        </activity>
+        <activity
+            android:name=".Achar7"
+            android:label="Achar7" >
+        </activity>
+        <activity
+            android:name=".Achar8"
+            android:label="Achar8" >
+        </activity>
+        <activity
+            android:name=".Achar9"
+            android:label="Achar9" >
+        </activity>
+        <activity
+            android:name=".Achar10"
+            android:label="Achar10" >
+        </activity>
+        <activity
+            android:name=".Achar11"
+            android:label="Achar11" >
+        </activity>
+        <activity
+            android:name=".Achar12"
+            android:label="Achar12" >
+        </activity>
+        <activity
+            android:name=".Achar13"
+            android:label="Achar13" >
+        </activity>
+        <activity
+            android:name=".Achar14"
+            android:label="Achar14" >
+        </activity>
+        <activity
+            android:name=".Achar15"
+            android:label="Achar15" >
+        </activity>
+        <activity
+            android:name=".Achar16"
+            android:label="Achar16" >
+        </activity>
+        <activity
+            android:name=".Achar17"
+            android:label="Achar17" >
+        </activity>
+        <activity
+            android:name=".Achar18"
+            android:label="Achar18" >
+        </activity>
+        <activity
+            android:name=".Achar19"
+            android:label="Achar19" >
+        </activity>
+        <activity
+            android:name=".Achar20"
+            android:label="Achar20" >
+        </activity>
+        <activity
+            android:name=".Achar21"
+            android:label="Achar21" >
+        </activity>
+    </application>
+
+</manifest>
